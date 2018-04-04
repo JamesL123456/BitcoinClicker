@@ -1,2 +1,2 @@
 # BitcoinClicker
-Made for JamesL123456
+Almost all code by xWafl, in collaboration with JamesL123456
